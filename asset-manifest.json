@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movielist_react/static/css/main.624ce29d.chunk.css",
+    "main.js": "/movielist_react/static/js/main.97a2ce0e.chunk.js",
+    "main.js.map": "/movielist_react/static/js/main.97a2ce0e.chunk.js.map",
+    "runtime-main.js": "/movielist_react/static/js/runtime-main.d01c633b.js",
+    "runtime-main.js.map": "/movielist_react/static/js/runtime-main.d01c633b.js.map",
+    "static/css/2.81b0985c.chunk.css": "/movielist_react/static/css/2.81b0985c.chunk.css",
+    "static/js/2.b0f587f0.chunk.js": "/movielist_react/static/js/2.b0f587f0.chunk.js",
+    "static/js/2.b0f587f0.chunk.js.map": "/movielist_react/static/js/2.b0f587f0.chunk.js.map",
+    "static/js/3.eb2db1aa.chunk.js": "/movielist_react/static/js/3.eb2db1aa.chunk.js",
+    "static/js/3.eb2db1aa.chunk.js.map": "/movielist_react/static/js/3.eb2db1aa.chunk.js.map",
+    "static/js/4.c7a15109.chunk.js": "/movielist_react/static/js/4.c7a15109.chunk.js",
+    "static/js/4.c7a15109.chunk.js.map": "/movielist_react/static/js/4.c7a15109.chunk.js.map",
+    "index.html": "/movielist_react/index.html",
+    "static/css/2.81b0985c.chunk.css.map": "/movielist_react/static/css/2.81b0985c.chunk.css.map",
+    "static/css/main.624ce29d.chunk.css.map": "/movielist_react/static/css/main.624ce29d.chunk.css.map",
+    "static/js/2.b0f587f0.chunk.js.LICENSE.txt": "/movielist_react/static/js/2.b0f587f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01c633b.js",
+    "static/css/2.81b0985c.chunk.css",
+    "static/js/2.b0f587f0.chunk.js",
+    "static/css/main.624ce29d.chunk.css",
+    "static/js/main.97a2ce0e.chunk.js"
+  ]
+}
